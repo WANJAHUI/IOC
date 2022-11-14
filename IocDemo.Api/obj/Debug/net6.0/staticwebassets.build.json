@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KkQ5xFnsqwBrRBOvka4rLfE0cVaRnBSSnSwkQwLwsvw=",
+  "Source": "IocDemo.Api",
+  "BasePath": "_content/IocDemo.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
